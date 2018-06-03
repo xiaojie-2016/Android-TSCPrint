@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<usb-device-->
+        <!--class="255"-->
+        <!--product-id="5678"-->
+        <!--protocol="1 "-->
+        <!--subclass="66"-->
+        <!--vendor-id="1234" />-->
+    <!-- 一般过滤下面俩参数就可以了，我这个是佳博 3150T 标签打印机 -->
+    <usb-device
+        product-id="85"
+        vendor-id="1137" />
+</resources>
